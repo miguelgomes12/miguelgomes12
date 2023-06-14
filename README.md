@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @miguelgomes12
-- 👀 I’m interested in ser programador
-- 🌱 I’m currently learning lógica de programação
-- 💞️ I’m looking to collaborate on projetos de iniciantes
+- 👋 Olá, eu sou @miguelgomes12
+- 👀 Estou interessado em ser programador
+- 🌱 Estudo atualmente lógica de programação
+- 💞️ Estou visando colaborar em projetos de iniciantes
 - 📫 Como chegar em mim: @miguelgomes.of
 
 <!---
